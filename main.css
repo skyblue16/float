@@ -1,0 +1,24 @@
+.contenidos{
+	background:red;
+	border:1px solid blue;
+	overflow:hidden;
+}
+h1{
+	text-align: center;
+}
+li{
+	float: left;
+	height: 40px;
+	margin: 20px;
+
+}
+.imagen1{
+	float: right;
+	margin:  0em 2em;
+    border: 1px solid white;
+}
+.imagen2{
+	float: left; 
+	margin: 0em 2em; 
+	border:1px solid white;
+}
